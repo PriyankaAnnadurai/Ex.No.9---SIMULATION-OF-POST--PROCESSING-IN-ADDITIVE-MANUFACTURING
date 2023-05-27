@@ -47,8 +47,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: PRIYANKA A
+### Register Number: 212222230113
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
